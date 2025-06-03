@@ -10,7 +10,7 @@ Initially tested on a **sample product** (*Simple Kind To Skin Refreshing Facial
 
 ## 🎯 Project Goals
 
-- 🧪 Scrape product data from Nykaa for multiple skincare items.
+- 🧪 Scrape product data from Nykaa for 50+ skincare items.
 - 🔁 Automate data refresh each time the function is run.
 - 📊 Prepare clean, structured data suitable for analysis.
 - 🧼 Track discounts, ratings, and pricing trends across products.
@@ -47,7 +47,7 @@ Initially tested on a **sample product** (*Simple Kind To Skin Refreshing Facial
 ## 🧠 Key Highlights
 
 - ✅ Started with one sample product to build logic.
-- ✅ Dynamically scrapes and updates data for multiple products.
+- ✅ Dynamically scrapes and updates data for 50+ products.
 - ✅ Clean tabular output using `pandas`, ready for export or further processing.
 - ✅ Uses `datetime` to timestamp each run — useful for automation & tracking.
 - ✅ Useful for dashboards, price tracking, competitor analysis, and more.
